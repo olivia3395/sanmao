@@ -8,6 +8,7 @@ import WorksPage from "./components/WorksPage";
 import LettersPage from "./components/LettersPage";
 import QuotesPage from "./components/QuotesPage";
 import AboutPage from "./components/AboutPage";
+import AudioPlayer from "./components/AudioPlayer";
 import { sanmaoData } from "./data";
 
 export default function App() {
@@ -50,7 +51,7 @@ export default function App() {
         </aside>
 
         {/* Main Content */}
-        <main className="flex-1">
+         <main className="flex-1">
            {/* Top Navigation */}
            <nav className="h-20 flex items-center justify-between px-12 border-b border-[#E0D5C1]">
              <div className="flex space-x-8 text-[11px] font-sans tracking-[0.2em] uppercase">
@@ -68,6 +69,7 @@ export default function App() {
            </div>
         </main>
       </div>
+      <AudioPlayer />
     </div>
   );
 }
