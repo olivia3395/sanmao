@@ -3,8 +3,7 @@ export const sanmaoData = {
     title: "三毛：流浪的灵魂",
     content: "三毛（1943年3月26日－1991年1月4日），原名陈懋平，后改名陈平。中国当代著名作家、旅行家。她以细腻的笔触记录了在撒哈拉沙漠的生活，其作品充满了对自由的向往和对生命的热爱。她的一生充满了传奇色彩，从台湾到西班牙，再到撒哈拉，她的足迹遍布世界。三毛的作品如《撒哈拉的故事》、《梦里花落知多少》等，影响了一代人的文学情怀。\n\n[作者寄语] 做这个APP，是因为三毛深刻影响了我的少年时代，她的文字是永不凋零的沙漠之花。你好三毛！",
     photos: [
-      "https://images.unsplash.com/photo-1544716272-ca5950a99245?q=80&w=600&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1517486808906-6caa84329965?q=80&w=600&auto=format&fit=crop"
+      "/sanmao.png"
     ]
   },
   footprints: [

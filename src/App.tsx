@@ -37,7 +37,7 @@ export default function App() {
   };
 
   return (
-    <div className="bg-[#FDF9F3] text-[#2C2C2C] font-serif min-h-screen">
+    <div className="bg-white/80 text-[#2C2C2C] font-serif min-h-screen relative">
       <BiographyModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} />
       <div className="max-w-6xl mx-auto flex">
         {/* Sidebar */}
@@ -56,7 +56,7 @@ export default function App() {
                <button onClick={() => setCurrentPage('quotes')} className={`${currentPage === 'quotes' ? 'font-bold border-b border-[#2C2C2C]' : 'opacity-40'}`}>Quotes</button>
                <button onClick={() => setCurrentPage('about')} className={`${currentPage === 'about' ? 'font-bold border-b border-[#2C2C2C]' : 'opacity-40'}`}>About</button>
              </div>
-             <div className="w-10 h-10 bg-[#C46210] rounded-full flex items-center justify-center text-white text-xs">三毛</div>
+             <button onClick={() => setIsModalOpen(true)} className="w-10 h-10 bg-[#C46210] rounded-full flex items-center justify-center text-white text-xs cursor-pointer hover:opacity-80 transition-opacity">三毛</button>
            </nav>
 
            <div className="p-12">

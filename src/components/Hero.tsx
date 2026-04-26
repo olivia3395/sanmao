@@ -9,10 +9,10 @@ export default function Hero({ onOpenModal }: { onOpenModal: () => void }) {
       className="text-[#5A5A40]"
     >
       <h1 
-        className="text-[110px] leading-[0.85] font-black mb-8 tracking-tighter cursor-pointer hover:text-[#C46210] transition-colors"
+        className="text-[60px] md:text-[100px] leading-[0.9] font-black mb-8 tracking-tighter cursor-pointer hover:text-[#C46210] transition-colors"
         onClick={onOpenModal}
       >
-        SAN<br/>MAO
+        你好三毛<br/>HELLO SANMAO
       </h1>
       <p className="text-xl italic text-[#C46210] leading-relaxed pr-12">
         “如果有来生，要做一棵树，站成永恒，没有悲欢的姿势。”
