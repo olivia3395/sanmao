@@ -53,6 +53,10 @@ export default function LettersPage() {
           </div>
         )}
       </AnimatePresence>
+
+      <div className="mt-16 flex justify-center items-center py-8 opacity-80 hover:opacity-100 transition-opacity duration-700">
+        <img src="/thanks_sanmao.png" alt="Thanks Sanmao" className="max-w-xl w-full object-contain filter drop-shadow-md" />
+      </div>
     </div>
   );
 }
