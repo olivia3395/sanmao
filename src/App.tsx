@@ -41,8 +41,12 @@ export default function App() {
       <BiographyModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} />
       <div className="max-w-6xl mx-auto flex">
         {/* Sidebar */}
-        <aside className="w-1/3 border-r border-[#E0D5C1] p-12 min-h-screen flex flex-col">
+        <aside className="w-1/3 border-r border-[#E0D5C1] p-12 min-h-screen flex flex-col justify-between">
            <Footprints />
+           <div className="mt-12 text-xs text-gray-500 font-sans tracking-wider opacity-70">
+             © Copyright, Yuyao Wang <br />
+             yuyaow@bu.edu
+           </div>
         </aside>
 
         {/* Main Content */}
