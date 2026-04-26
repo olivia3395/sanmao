@@ -32,6 +32,22 @@ This web application serves as a digital museum and interactive essay, allowing 
 *   **🎨 Minimalist & Elegant UI**: Thoughtful typography (Serif style), warm earthy color palettes (Sahara sands, vintage paper), and smooth micro-interactions.
 
 
+## 🖼️ App Preview
+
+<p align="center">
+  <img src="app1.png" alt="Hello Sanmao App Preview 1" width="48%">
+  <img src="app2.png" alt="Hello Sanmao App Preview 2" width="48%">
+</p>
+
+<p align="center">
+  <img src="app3.png" alt="Hello Sanmao App Preview 3" width="48%">
+  <img src="app4.png" alt="Hello Sanmao App Preview 4" width="48%">
+</p>
+
+<p align="center">
+  <img src="app5.png" alt="Hello Sanmao App Preview 5" width="72%">
+</p>
+
 
 ## 🛠️ Tech Stack
 
@@ -41,6 +57,8 @@ This web application serves as a digital museum and interactive essay, allowing 
 *   **Animations**: [Framer Motion](https://www.framer.com/motion/)
 *   **Icons**: [Lucide React](https://lucide.dev/)
 *   **Deployment**: [Vercel](https://vercel.com/)
+
+
 
 
 
