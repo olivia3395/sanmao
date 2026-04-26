@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  background-image: url('/sanmao_bg.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
