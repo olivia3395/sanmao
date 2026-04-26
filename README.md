@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="public/sanmao.png" alt="Sanmao watercolor portrait" width="420">
+  <img src="public/sanmao.png" alt="Sanmao watercolor portrait" width="210">
 </p>
 
 
