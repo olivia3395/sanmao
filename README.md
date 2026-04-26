@@ -17,7 +17,7 @@
 
 This web application serves as a digital museum and interactive essay, allowing users to trace her footprints across the globe, read her most profound letters and quotes, and immerse themselves in her enduring spirit.
 
-**Motivation**: *"做这个APP，是因为三毛深刻影响了我的少年时代，她的文字是永不凋零的沙漠之花。"* 
+**Motivation**: *做这个APP，是因为三毛深刻影响了我的少年时代，她的文字是永不凋零的沙漠之花。* 
 *(Created because Sanmao profoundly influenced my youth; her words are the unfading desert flowers.)*
 
 
