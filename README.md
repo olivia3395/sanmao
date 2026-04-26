@@ -21,6 +21,9 @@ This web application serves as a digital museum and interactive essay, allowing 
 *(Created because Sanmao profoundly influenced my youth; her words are the unfading desert flowers.)*
 
 
+**"我唯一锲而不舍，愿意以自己的生命去努力的，只不过是保守我个人的心怀意念，在我有生之日，做一个真诚的人，不放弃对生活的热爱和执着，在有限的时空里，过无限广大的日子。" 三毛<<雨季不再来>>**
+
+
 
 ## ✨ Features
 
