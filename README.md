@@ -10,6 +10,10 @@
 ### 🌐 [Visit the Live Website](https://sanmao.vercel.app/)
 
 
+<p align="center">
+  <img src="public/sanmao.png" alt="Sanmao watercolor portrait" width="420">
+</p>
+
 
 ## 📖 About The Project
 
